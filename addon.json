@@ -1,0 +1,6 @@
+{
+	"title"		:	"Veltrix Anti-Cheat",
+	"type"		:	"ServerContent",
+	"tags"		:	[ "fun" ],
+	"ignore"	:	[ "*.psd", "*.vcproj", "*.svn*" ]
+}
